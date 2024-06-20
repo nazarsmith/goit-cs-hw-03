@@ -1,0 +1,14 @@
+[requires]
+python_version = "3.11.6"
+
+[dev-packages]
+black = "==24.1.1"
+pre-commit = "*"
+psycopg2 = "==2.9.9"
+faker = "*"
+
+[packages]
+black = "==24.1.1"
+pre-commit = "*"
+psycopg2 = "==2.9.9"
+faker = "*"
