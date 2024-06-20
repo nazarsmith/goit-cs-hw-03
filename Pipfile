@@ -6,9 +6,11 @@ black = "==24.1.1"
 pre-commit = "*"
 psycopg2 = "==2.9.9"
 faker = "*"
+pymongo = "*"
 
 [packages]
 black = "==24.1.1"
 pre-commit = "*"
 psycopg2 = "==2.9.9"
 faker = "*"
+pymongo = "*"
